@@ -1,5 +1,9 @@
 # Mandatory Assignment #1 _- Python2_ 
+<<<<<<< HEAD
 In this assignment we were asked to fetch all "required reading" from the course via a GitHub API...
+=======
+In this assignment we were asked to fetch all "required reading" from the course's GitHub API...
+>>>>>>> b3cb5faf09335d5a1b470147c07f0f3ab271faaa
 If you read this I probably **succeeded**!
 ## Required Reading: 
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
