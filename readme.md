@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Mandatory Assignment #1 _- Python2_ 
 In this assignment we were asked to fetch all "required reading" from the course's GitHub API...
 If you read this I probably **succeeded**!
+=======
+# Mandatory Assignment _- Python2_ 
+In this assignment we were asked to fetch all "required reading" from the course's GitHub API...
+If you read this I probably *succeeded*!
+>>>>>>> 58fc4d8a0237bf353809d3ac75b9fb41f74fd389
 ## Required Reading: 
 * [3. An Informal Introduction to Python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
 * [3.1. Using Python as a Calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
