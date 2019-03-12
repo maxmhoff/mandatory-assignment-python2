@@ -1,4 +1,4 @@
-# Mandatory Assignment #1 _- Python2_
+# Mandatory Assignment _- Python2_
 In this assignment we were asked to fetch all "required reading" from the course via a GitHub API...
 If you read this I probably **succeeded**!
 ## Required Reading: 
